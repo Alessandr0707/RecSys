@@ -1,0 +1,17 @@
+# Виртуальное окружение
+.venv/
+venv/
+
+# Кэш Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Данные и тяжелые файлы
+data/
+*.csv
+*.zip
+*.parquet
+*.pkl
